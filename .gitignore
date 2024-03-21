@@ -16,3 +16,5 @@
 # Virtual Environment 
 venv/
 .venv/
+
+dist/
